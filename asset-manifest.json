@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fast-fingers-pras75299/static/css/main.523f09c5.chunk.css",
+    "main.js": "/fast-fingers-pras75299/static/js/main.a67a7749.chunk.js",
+    "main.js.map": "/fast-fingers-pras75299/static/js/main.a67a7749.chunk.js.map",
+    "runtime-main.js": "/fast-fingers-pras75299/static/js/runtime-main.b27a8560.js",
+    "runtime-main.js.map": "/fast-fingers-pras75299/static/js/runtime-main.b27a8560.js.map",
+    "static/js/2.ca6aba6e.chunk.js": "/fast-fingers-pras75299/static/js/2.ca6aba6e.chunk.js",
+    "static/js/2.ca6aba6e.chunk.js.map": "/fast-fingers-pras75299/static/js/2.ca6aba6e.chunk.js.map",
+    "index.html": "/fast-fingers-pras75299/index.html",
+    "precache-manifest.b19eda010fbf1a7208051b463a727c80.js": "/fast-fingers-pras75299/precache-manifest.b19eda010fbf1a7208051b463a727c80.js",
+    "service-worker.js": "/fast-fingers-pras75299/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/fast-fingers-pras75299/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.ca6aba6e.chunk.js.LICENSE.txt": "/fast-fingers-pras75299/static/js/2.ca6aba6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b27a8560.js",
+    "static/js/2.ca6aba6e.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.a67a7749.chunk.js"
+  ]
+}
