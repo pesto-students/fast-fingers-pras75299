@@ -1,5 +1,5 @@
 # Fast Fingers
-
+[Project Link](https://nifty-archimedes-f6bf89.netlify.app/)
 Pesto Tech is proudly launching its own speed typing game named **Fast fingers**. You have been awarded with the project and you need to design and develop this project which should
 meet the requirements mentioned in the MVP below.
 
